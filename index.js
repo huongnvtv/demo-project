@@ -1,3 +1,3 @@
 function Cat(){
-	console.log("hello anh em");
+	console.log("hello anh em","Hello");
 }
